@@ -171,3 +171,82 @@
   
 </details>
 
+---
+
+## DF_CLEAN
+
+<details><summary><h3>지역정보</h3></summary>
+
+</details>
+
+<details><summary><h3>발생일자정보</h3></summary>
+
+</details>
+
+<details><summary><h3>유동인구정보</h3></summary>
+  
+</details>
+
+---
+
+## DF_EDA
+
+<details><summary><h3>설명변수와 총소방지수 간 상관관계 확인</h3></summary>
+  
+</details>
+
+<details><summary><h3>사고유형별 총소방지수 비교</h3></summary>
+  
+</details>
+
+<details><summary><h3>사고유형당 기간별 소방지수 비교</h3></summary>
+  
+</details>
+
+<details><summary><h3>사고유형 건당 평균 유동인구수 비교</h3></summary>
+  
+</details>
+
+---
+
+## DF_API
+
+<details><summary><h3>산업단지정보</h3></summary>
+  
+</details>
+
+<details><summary><h3>유흥시설정보</h3></summary>
+  
+</details>
+
+<details><summary><h3>교통 관련 정보</h3></summary>
+  
+</details>
+
+---
+
+## DF_PRE
+
+<details><summary><h3>주요설명변수 선별 전 불필요한 변수 삭제</h3></summary>
+  
+</details>
+
+<details><summary><h3>범주형 변수 전처리</h3></summary>
+  
+</details>
+
+<details><summary><h3>수치형 변수 전처리</h3></summary>
+  
+</details>
+
+<details><summary><h3>종속변수를 이진범주형으로 변환</h3></summary>
+  
+</details>
+
+<details><summary><h3>데이터 셋 분할</h3></summary>
+  
+</details>
+
+<details><summary><h3>로지스틱 회귀분석을 통한 주요설명변수 채택</h3></summary>
+  
+</details>
