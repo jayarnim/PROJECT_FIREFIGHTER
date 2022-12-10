@@ -451,24 +451,18 @@
 
 ## DF_PRE
 
-<details><summary><h3>주요설명변수 선별 전 불필요한 변수 삭제</h3></summary>
-  
-</details>
+<details><summary><h3>주요설명변수 선별 전 전처리</h3></summary>
 
-<details><summary><h3>범주형 변수 전처리</h3></summary>
+- 불필요한 변수 삭제
   
-</details>
+- 범주형 변수 전처리
 
-<details><summary><h3>수치형 변수 전처리</h3></summary>
-  
-</details>
+- 수치형 변수 전처리
 
-<details><summary><h3>종속변수를 이진범주형으로 변환</h3></summary>
+- 종속변수를 이진범주형으로 변환
   
-</details>
+- 데이터 셋 분할
 
-<details><summary><h3>데이터 셋 분할</h3></summary>
-  
 </details>
 
 <details><summary><h3>로지스틱 회귀분석을 통한 주요설명변수 채택</h3></summary>
