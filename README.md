@@ -277,6 +277,7 @@
 ## DF_EDA
 
 <details><summary><h3>설명변수와 총소방지수 간 상관관계 확인</h3></summary>
+
 ![상관계수](https://user-images.githubusercontent.com/116495744/206858084-63bd7d86-5ac2-4b07-a07a-4d45836689a3.png)
 
 ![1_기간별 총소방지수 비교](https://user-images.githubusercontent.com/116495744/206858096-a82cb69a-c431-4c41-af1e-e912a967f636.png)
