@@ -423,7 +423,7 @@
     - 교통시설 : 도로(12.5%), 도로외교통지역(6.4%)
 
   - 2021년 6월 1일 소방청에서 배포한 ‘2021년 119구급서비스 통계 연보’ 78쪽을 참조함
-    - 참고 자료 : [2021년 소방청 통계 연보 78쪽](https://www.nfa.go.kr/nfa/releaseinformation/statisticalinformation/main/?boardId=bbs_0000000000000019&mode=view&cntId=34&category=&pageIdx=&searchCondition=&searchKeyword=)
+    - 참고 자료 : [**2021년 소방청 통계 연보 78쪽**](https://www.nfa.go.kr/nfa/releaseinformation/statisticalinformation/main/?boardId=bbs_0000000000000019&mode=view&cntId=34&category=&pageIdx=&searchCondition=&searchKeyword=)
 
 - 가설
   - 지역 내 특정 공간유형의 존재 여부가 특정 사고유형 발생 횟수에 영향을 미칠 것임
@@ -454,10 +454,28 @@
 <details><summary><h3>주요설명변수 선별 전 전처리</h3></summary>
 
 - 불필요한 변수 삭제
+  - `GRID_ID` : 주요설명변수 선별을 위한 로지스틱 회귀분석 수행 시 불필요하므로 삭제함
+  - `GRID_X_AXIS`, `GRID_Y_AXIS` : 탐색적 자료 분석 작업을 마쳤으므로 삭제함
+  - `DONG_NM`, `DONG_CD` : 외부 API 추가 작업을 마쳤으므로 삭제함
+  - `TOTAL_CNT` : 탐색적 자료 분석 작업을 마쳤으므로 삭제함
   
 - 범주형 변수 전처리
-
+  - Label Encoding : 모든 변수가 이미 라벨 인코딩 되어 있으므로 생략함
+  - One-Hot Encoding : 라이브러리 `pandas`의 함수 `dummies` 활용
+        
+        SEASON : SEASON_0, SEASON_1, SEASON_2, SEASON_3
+        MONTH : MONTH_1, MONTH_2, MONTH_3, ..., MONTH_12
+        WEEKDAY : WEEKDAY_0, WEEKDAY_1, WEEKDAY_2, ..., WEEKDAY_6
+        HOLIDAY : HOLIDAY_0, HOLIDAY_1
+        INDUSTRY : INDUSTRY_0, INDUSTRY_1
+        
 - 수치형 변수 전처리
+  
+      PEOPLE, MAN, WOMAN, CHILD, YOUTH, MIDDLE, OLDER, BAR, TRAFFIC
+
+  - 이상치 처리 : 라이브러리 `scikit-learn`의 함수 `RobustScaler` 활용  
+  - 정규화 : 라이브러리 `scikit-learn`의 함수 `Standardscaler` 활용
+  - 표준화 : 라이브러리 `scikit-learn`의 함수 `MinMaxscaler` 활용
 
 - 종속변수를 이진범주형으로 변환
   
