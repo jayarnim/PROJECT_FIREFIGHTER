@@ -10,11 +10,11 @@
 
 ## 💁‍♂️ 프로젝트 소개
 
-<details><summary><h3>👉 문제의 이해</h3></summary>
+<details><summary><h3>문제의 이해</h3></summary>
 
 </details>
 
-<details><summary><h3>👉 제공된 데이터 셋의 이해</h3></summary>
+<details><summary><h3>제공된 데이터 셋의 이해</h3></summary>
 
 - `dataset.csv`
   - **자료(row)** : 총 302,168개
@@ -29,7 +29,7 @@
 
 </details>
 
-<details><summary><h3>👉 풀이 과정</h3></summary>
+<details><summary><h3>풀이 과정</h3></summary>
 
 1. **DF_OG** : 원 데이터 셋 파악하기
 
@@ -51,7 +51,7 @@
 
 ## 🔎 DF_OG; 원 데이터 셋 탐색하기
 
-<details><summary><h3>👉 수치형 변수</h3></summary>
+<details><summary><h3>수치형 변수</h3></summary>
 
 - **유동인구정보 (28개 칼럼)**
   - 자료형 : 숫자형
@@ -116,7 +116,7 @@
 
 </details>
 
-<details><summary><h3>👉 범주형 변수</h3></summary>
+<details><summary><h3>범주형 변수</h3></summary>
 
 - **지역정보 (5개 칼럼)**
   
@@ -155,7 +155,7 @@
 
 </details>
   
-<details><summary><h3>👉 설명변수와 종속변수 구분</h3></summary>
+<details><summary><h3>설명변수와 종속변수 구분</h3></summary>
 
 - **설명변수(Feature Columns)**
   
