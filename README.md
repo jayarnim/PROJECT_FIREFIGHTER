@@ -511,11 +511,3 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<br>
-
----
-
-## 💡 자료 출처
-
-- [**bike-sharing-demand (kaggle)**](https://www.kaggle.com/c/bike-sharing-demand/overview)
