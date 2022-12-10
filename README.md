@@ -281,33 +281,51 @@
 ![상관계수](https://user-images.githubusercontent.com/116495744/206858084-63bd7d86-5ac2-4b07-a07a-4d45836689a3.png)
 
 ![1_기간별 총소방지수 비교](https://user-images.githubusercontent.com/116495744/206858096-a82cb69a-c431-4c41-af1e-e912a967f636.png)
+
 </details>
 
-<details><summary><h3>사고유형별 비교</h3></summary>
+<details><summary><h3>사고유형별 연간 총소방지수 비교</h3></summary>
 
-- **사고유형별 연간 총소방지수 비교**
+![2-1_사고유형별 연간 총소방지수 비교](https://user-images.githubusercontent.com/116495744/206866048-fc723d71-2e5b-4e95-81a7-75e12f43901c.png)
 
-  ![2-1_사고유형별 연간 총소방지수 비교](https://user-images.githubusercontent.com/116495744/206866048-fc723d71-2e5b-4e95-81a7-75e12f43901c.png)
+</details>
 
+<details><summary><h3>사고유형별 건당 총유동인구수 비교</h3></summary>
   
-- **사고유형별 건당 유동인구수 비교**
-  
-  ![3_사고유형별 건당 유동인구수 비교](https://user-images.githubusercontent.com/116495744/206866096-b2cf2a9b-1552-49f1-a690-bc71feabc148.png)
+![3_사고유형별 건당 유동인구수 비교](https://user-images.githubusercontent.com/116495744/206866096-b2cf2a9b-1552-49f1-a690-bc71feabc148.png)
 
 </details>
 
 <details><summary><h3>사고유형당 기간별 소방지수 비교</h3></summary>
-  
-![4_사고유형당 기간별 소방지수 비교](https://user-images.githubusercontent.com/116495744/206866127-677e2b81-7b1e-49db-a621-1901dcc0ec8a.png)  
-![4-1](https://user-images.githubusercontent.com/116495744/206866184-6727bb86-32ee-482e-b5f2-f8229af58548.png)
-![4-2](https://user-images.githubusercontent.com/116495744/206866200-e1217f56-7230-4f22-a00f-c0ef1aca8708.png)
-![4-3](https://user-images.githubusercontent.com/116495744/206866201-3ab3cfc2-1430-430e-946b-e6e4362eb146.png)
 
+- **계절별**
 
+  ![4_사고유형당 기간별 소방지수 비교](https://user-images.githubusercontent.com/116495744/206866127-677e2b81-7b1e-49db-a621-1901dcc0ec8a.png)  
+
+- **월별**
   
+  ![4-1](https://user-images.githubusercontent.com/116495744/206866184-6727bb86-32ee-482e-b5f2-f8229af58548.png)
+
+- **요일별**
+  
+  ![4-2](https://user-images.githubusercontent.com/116495744/206866200-e1217f56-7230-4f22-a00f-c0ef1aca8708.png)
+
+- **휴일여부**  
+  
+  ![4-3](https://user-images.githubusercontent.com/116495744/206866201-3ab3cfc2-1430-430e-946b-e6e4362eb146.png)
+
 </details>
 
 <details><summary><h3>사고유형 건당 평균 유동인구수 비교</h3></summary>
+
+- **성별**
+  
+  ![5-1](https://user-images.githubusercontent.com/116495744/206866508-2b6b6595-10f6-4e9b-8034-3f944e02f9d0.png)
+
+- **연령 및 생활패턴별**
+  
+  ![5_사고유형 건당 유동인구수 비교](https://user-images.githubusercontent.com/116495744/206866520-0fdf24ba-7d42-435f-9cb6-b6e352fc218d.png)
+
   
 </details>
 
