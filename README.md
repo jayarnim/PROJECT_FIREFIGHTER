@@ -143,12 +143,13 @@
   
 <details><summary><h3>👉 설명변수와 종속변수 구분</h3></summary>
 
-- 설명변수
+- **설명변수(Feature Columns)**
+  
   - 지역정보
   - 발생일자정보
   - 유동인구정보
 
-- 종속변수 : 각 사고유형별 소방지수
+- **종속변수(Target Columns)** : 각 사고유형별 소방지수
   
 </details>
 
