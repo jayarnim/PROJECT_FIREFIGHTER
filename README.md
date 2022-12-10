@@ -482,7 +482,7 @@
 👩 [**김효정**](https://github.com/410am)
 
     - Logistic Regression
-    - 
+    - API
     - Predict
 
 👨 [**인찬휘**](https://github.com/wassaa-1)
