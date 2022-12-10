@@ -77,7 +77,7 @@
 | 6 | EXCL_DISEASE_OCRN_CNT | 질병외 |  |
 | 7 | VHC_ACDNT_OCRN_CNT | 탈것사고 |  |
 | 8 | HRFAF_OCRN_CNT | 낙상 |  |
-| 9 | AGRCMCHN_ACDNT_OCRN_CNT | 농기계사고 |  |
+| 9 | AGRCMCHN_ACDNT_OCRN_CNT | 농기계사고 | 연간 총소방지수 0 |
 | 10 | DRKNSTAT_OCRN_CNT | 단순주취 |  |
 | 11 | ANML_INSCT_ACDNT_OCRN_CNT | 동물곤충사고 |  |
 | 12 | FLPS_ACDNT_OCRN_CNT | 동승자사고 |  |
@@ -96,8 +96,8 @@
 | 25 | FALLING_OCRN_CNT | 추락 |  |
 | 26 | FLAME_OCRN_CNT | 화염 |  |
 | 27 | CHMC_SBSTNC_ACDNT_OCRN_CNT | 화학물질사고 |  |
-| 28 | WETHR_ACDNT_OCRN_CNT | 날씨사고 |  |
-| 29 | SXAL_ASALT_OCRN_CNT | 성폭행 |  |
+| 28 | WETHR_ACDNT_OCRN_CNT | 날씨사고 | 연간 총소방지수 0 |
+| 29 | SXAL_ASALT_OCRN_CNT | 성폭행 | 연간 총소방지수 0 |
 | 30 | BURN_OCRN_CNT | 화상 |  |  
 
 </details>
