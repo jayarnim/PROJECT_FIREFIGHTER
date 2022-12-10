@@ -250,3 +250,54 @@
 <details><summary><h3>로지스틱 회귀분석을 통한 주요설명변수 채택</h3></summary>
   
 </details>
+
+---
+
+## 👭 WORKMATE
+
+👨 [**IT`S ME**](https://github.com/jayarnim)
+
+    - Exploratory Data Analysis
+    - Predict
+    - README
+
+👩 [**김효정**](https://github.com/410am)
+
+    - Logistic Regression
+    - Predict
+    - README
+
+👨 [**인찬휘**](https://github.com/wassaa-1)
+
+    - DecisionTree Classifier
+    - Random Forest Classifier
+    - GBM Classifier
+    - Light GBM Classifier
+
+<br>
+
+---
+
+## 🛠 SKILL USED
+
+### 👉 LANGUAGE
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+### 👉 IDE
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/>
+
+### 👉 LIBRARY
+
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br>
+
+---
+
+## 💡 자료 출처
+
+- [**bike-sharing-demand (kaggle)**](https://www.kaggle.com/c/bike-sharing-demand/overview)
