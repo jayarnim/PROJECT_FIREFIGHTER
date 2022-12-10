@@ -265,7 +265,7 @@
 <details><summary><h3>설명변수 종합</h3></summary>
 
 - 범주형 변수
-  - 지역정보 : `GRID_ID`, `GRID_X_AXIS`, `GRID_Y_AXIS`, `DONG_NM`, `DONG_CD`
+  - 지역정보 : `GRID_ID`, ~`GRID_X_AXIS`~, ~`GRID_Y_AXIS`~, ~`DONG_NM`~, ~`DONG_CD`~
   - 발생일자정보 : `MONTH`, `WEEKDAY`, `SEASON`, `HOLIDAY`
 
 - 수치형 변수
