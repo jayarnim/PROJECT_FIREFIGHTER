@@ -8,7 +8,7 @@
 
 ---
 
-## 프로젝트 소개
+## 💁‍♂️ 프로젝트 소개
 
 <details><summary><h3>👉 문제의 이해</h3></summary>
 
@@ -49,7 +49,7 @@
 
 ---
 
-## DF_OG; 원 데이터 셋 탐색하기
+## 🔎 DF_OG; 원 데이터 셋 탐색하기
 
 <details><summary><h3>👉 수치형 변수</h3></summary>
 
