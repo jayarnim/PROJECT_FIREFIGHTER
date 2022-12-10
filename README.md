@@ -482,8 +482,8 @@
 👩 [**김효정**](https://github.com/410am)
 
     - Logistic Regression
+    - 
     - Predict
-    - README
 
 👨 [**인찬휘**](https://github.com/wassaa-1)
 
